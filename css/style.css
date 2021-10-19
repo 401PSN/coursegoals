@@ -1564,7 +1564,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 	margin-bottom: 34px; }
 
 .highlight {
-	color: #ffc62d; }
+	color: #11d5ed; }
 
 .text-large {
 	font-size: 32px;
@@ -1803,7 +1803,7 @@ section {
 			transform: translateY(-50%);
 			height: 4px;
 			width: 0;
-			background-color: #ffc62d;
+			background-color: #11d5ed;
 			transition: all 0.4s cubic-bezier(0.25, 0.74, 0.22, 0.99); }
 			@media (prefers-reduced-motion: reduce) {
 				.nav__menu > li > a::after {
@@ -2130,7 +2130,7 @@ header .flex-child.flex-right {
 	.footer a:not(.widget-cta__link) {
 		color: #fff; }
 		.footer a:not(.widget-cta__link):hover, .footer a:not(.widget-cta__link):focus {
-			color: #ffc62d; }
+			color: #11d5ed; }
 
 /* Footer CTA
 -------------------------------------------------------*/
@@ -2540,11 +2540,11 @@ input[type="radio"] {
 			background-color: #E9E9E9; }
 			.slick-dots li button:focus, .slick-dots li button:hover {
 				outline: 0;
-				background-color: #ffc62d;
+				background-color: #11d5ed;
 				border-color: transparent; }
 		.slick-dots li.slick-active button,
 		.slick-dots li.slick-active button:hover {
-			background-color: #ffc62d;
+			background-color: #11d5ed;
 			border-color: transparent; }
 	.slick-dots > li {
 		display: inline-block; }
@@ -2922,7 +2922,7 @@ table thead tr th {
 			bottom: 10px;
 			height: 16px;
 			width: 0;
-			background-color: #ffc62d;
+			background-color: #11d5ed;
 			transition: all 0.4s cubic-bezier(0.25, 0.74, 0.22, 0.99); }
 			@media only screen and (min-width: 1025px) {
 				.services-list__label::after {
@@ -3544,7 +3544,7 @@ table thead tr th {
 .wp-block-button__link:not(.has-background):active,
 .wp-block-button__link:not(.has-background):focus,
 .wp-block-button__link:not(.has-background):hover {
-	background-color: #ffc62d; }
+	background-color: #11d5ed; }
 
 /* Full-width Images
 -------------------------------------------------------*/
@@ -4287,7 +4287,7 @@ a.cc-btn.cc-dismiss {
 	.comment-edit-link {
 		margin-left: 5px;
 		margin-bottom: 0;
-		color: #ffc62d; }
+		color: #11d5ed; }
 	.comment-reply {
 		font-size: 16px;
 		font-size: 1rem;
@@ -4733,7 +4733,7 @@ a.cc-btn.cc-dismiss {
 		position: absolute;
 		bottom: -5px;
 		right: 0;
-		background-color: #ffc62d;
+		background-color: #11d5ed;
 		transition: all 0.4s cubic-bezier(0.25, 0.74, 0.22, 0.99); }
 		@media (prefers-reduced-motion: reduce) {
 			.hover-line:after {
