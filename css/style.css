@@ -2661,7 +2661,7 @@ table thead tr th {
 /*-------------------------------------------------------*/
 @media only screen and (min-width: 768px) {
 	.intro {
-		padding-bottom: 172px; } }
+		padding-bottom: 72px; } }
 
 .intro__text {
 	max-width: 1120px;
